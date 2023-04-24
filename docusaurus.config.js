@@ -18,12 +18,12 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Alios5', // Usually your GitHub org/user name.
+  organizationName: 'Moise-Play-API', // Usually your GitHub org/user name.
   projectName: 'Moise-Play-API.github.io', // Usually your repo name.
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
-  deploymentBranch: 'deployment',
+  deploymentBranch: 'main',
   trailingSlash: false,
 
   // Even if you don't use internalization, you can use this field to set useful
