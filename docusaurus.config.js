@@ -18,7 +18,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Moise-Play-API', // Usually your GitHub org/user name.
+  organizationName: 'Alios5', // Usually your GitHub org/user name.
   projectName: 'Moise-Play-API.github.io', // Usually your repo name.
 
   onBrokenLinks: 'warn',
